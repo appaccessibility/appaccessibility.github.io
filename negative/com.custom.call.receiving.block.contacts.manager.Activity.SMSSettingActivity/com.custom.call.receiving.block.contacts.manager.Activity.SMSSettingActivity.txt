@@ -1,0 +1,18 @@
+The following is a list of opportunities to improve the accessibility of Full screen incoming call. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.custom.call.receiving.block.contacts.manager:id/ibtn_back
+This item may not have a label readable by screen readers.
+
+Touch target
+com.custom.call.receiving.block.contacts.manager:id/chk_anc_sms
+This item's size is 39dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.custom.call.receiving.block.contacts.manager:id/chk_anc_sms_content
+This item's size is 39dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Item descriptions
+com.custom.call.receiving.block.contacts.manager:id/chk_anc_sms
+This clickable item's speakable text: "Not checked" is identical to that of 1 other item(s).
+

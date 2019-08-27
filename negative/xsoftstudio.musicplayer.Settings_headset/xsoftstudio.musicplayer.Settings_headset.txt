@@ -1,0 +1,14 @@
+The following is a list of opportunities to improve the accessibility of PowerAudio. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+[0,68][131,184]
+This item may not have a label readable by screen readers.
+
+Touch target
+[0,68][131,184]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+[0,197][1080,333]
+This clickable item's speakable text: "Headset controls" is identical to that of 1 other item(s).
+

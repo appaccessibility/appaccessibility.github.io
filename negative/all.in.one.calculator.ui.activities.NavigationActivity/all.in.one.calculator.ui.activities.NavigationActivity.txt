@@ -1,0 +1,66 @@
+The following is a list of opportunities to improve the accessibility of Calculator. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+[0,0][1080,1920]
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/favorite
+This item may not have a label readable by screen readers.
+
+Item label
+all.in.one.calculator:id/calculator_button
+This item may not have a label readable by screen readers.
+
+Text contrast
+all.in.one.calculator:id/title
+The item's text contrast ratio is 1.17. This ratio is based on an estimated foreground color of #36454D and an estimated background color of #404F57. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+all.in.one.calculator:id/subtitle
+The item's text contrast ratio is 1.12. This ratio is based on an estimated foreground color of #394850 and an estimated background color of #404F57. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+all.in.one.calculator:id/favorite
+The image's contrast ratio is 1.82. This ratio is based on an estimated foreground color of #C0C0C0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+all.in.one.calculator:id/favorite
+The image's contrast ratio is 1.05. This ratio is based on an estimated foreground color of #3D4C54 and an estimated background color of #404F57. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+all.in.one.calculator:id/favorite
+The image's contrast ratio is 1.05. This ratio is based on an estimated foreground color of #3D4C54 and an estimated background color of #404F57. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+all.in.one.calculator:id/title
+The item's text contrast ratio is 3.74. This ratio is based on an estimated foreground color of #A7ADB1 and an estimated background color of #404F57. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+all.in.one.calculator:id/subtitle
+The item's text contrast ratio is 3.82. This ratio is based on an estimated foreground color of #A8AFB3 and an estimated background color of #404F57. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+all.in.one.calculator:id/title
+The item's text contrast ratio is 3.82. This ratio is based on an estimated foreground color of #A8AFB3 and an estimated background color of #404F57. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

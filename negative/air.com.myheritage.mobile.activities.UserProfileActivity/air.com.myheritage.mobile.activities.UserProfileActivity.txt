@@ -1,0 +1,6 @@
+The following is a list of opportunities to improve the accessibility of MyHeritage. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+air.com.myheritage.mobile:id/text_description_dispaly
+The item's text contrast ratio is 4.37. This ratio is based on an estimated foreground color of #74726D and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

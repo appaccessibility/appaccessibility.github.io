@@ -1,0 +1,58 @@
+The following is a list of opportunities to improve the accessibility of اغاني الراي بدون انترنت. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.aramobi.aghani.ray:id/indicator_shuffle
+This item may not have a label readable by screen readers.
+
+Item label
+com.aramobi.aghani.ray:id/prev
+This item may not have a label readable by screen readers.
+
+Item label
+com.aramobi.aghani.ray:id/pause
+This item may not have a label readable by screen readers.
+
+Item label
+com.aramobi.aghani.ray:id/next
+This item may not have a label readable by screen readers.
+
+Item label
+com.aramobi.aghani.ray:id/indicator_repeat
+This item may not have a label readable by screen readers.
+
+Item label
+com.aramobi.aghani.ray:id/seekbar
+This item may not have a label readable by screen readers.
+
+Image contrast
+com.aramobi.aghani.ray:id/indicator_shuffle
+The image's contrast ratio is 1.25. This ratio is based on an estimated foreground color of #2F7E99 and an estimated background color of #358FAD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.aramobi.aghani.ray:id/indicator_repeat
+The image's contrast ratio is 1.23. This ratio is based on an estimated foreground color of #2F7F9A and an estimated background color of #358FAD. Consider increasing this ratio to 3.00 or greater.
+
+Item descriptions
+[0,210][1080,378]
+This clickable item's speakable text: "الشاب عقيل - cheb akil" is identical to that of 2 other item(s).
+
+Item descriptions
+[0,1050][1080,1218]
+This clickable item's speakable text: "الشاب حسني - cheb hassni" is identical to that of 1 other item(s).
+
+Text contrast
+[189,101][791,172]
+The item's text contrast ratio is 4.48. This ratio is based on an estimated foreground color of #102B34 and an estimated background color of #3898B8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.aramobi.aghani.ray:id/track_title
+The item's text contrast ratio is 3.86. This ratio is based on an estimated foreground color of #12313B and an estimated background color of #3692B1. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.aramobi.aghani.ray:id/time_current
+The item's text contrast ratio is 3.26. This ratio is based on an estimated foreground color of #112B34 and an estimated background color of #2F7F9A. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.aramobi.aghani.ray:id/time_total
+The item's text contrast ratio is 3.26. This ratio is based on an estimated foreground color of #102B34 and an estimated background color of #2F7F9A. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

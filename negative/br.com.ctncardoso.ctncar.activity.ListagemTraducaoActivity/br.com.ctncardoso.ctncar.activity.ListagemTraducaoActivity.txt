@@ -1,0 +1,74 @@
+The following is a list of opportunities to improve the accessibility of Drivvo. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+br.com.ctncardoso.ctncar:id/BTN_NaoLembroSenha
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #80DEEA and an estimated background color of #008F9D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+br.com.ctncardoso.ctncar:id/btn_nao_criar_conta
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #80DEEA and an estimated background color of #008591. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+br.com.ctncardoso.ctncar:id/sign_in_facebook
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/sign_in_google
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/ET_Email
+This item's height is 43dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/ET_Senha
+This item's height is 43dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/BTN_NaoLembroSenha
+This item's height is 20dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/BTN_CriarConta
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/BTN_Login
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/btn_nao_criar_conta
+This item's height is 30dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+br.com.ctncardoso.ctncar:id/ET_Email
+This clickable item's speakable text: "Email" is identical to that of 1 other item(s).
+
+Item descriptions
+br.com.ctncardoso.ctncar:id/ET_Senha
+This clickable item's speakable text: "Password" is identical to that of 1 other item(s).
+
+Text contrast
+[52,537][1054,580]
+The item's text contrast ratio is 3.11. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #01A1B3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[490,829][590,880]
+The item's text contrast ratio is 3.42. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #0099AA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+br.com.ctncardoso.ctncar:id/BTN_CriarConta
+The item's text contrast ratio is 4.02. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #008C9A. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+br.com.ctncardoso.ctncar:id/BTN_Login
+The item's text contrast ratio is 3.51. This ratio is based on an estimated foreground color of #0097A7 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Unsupported item type
+br.com.ctncardoso.ctncar:id/ti_email
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+br.com.ctncardoso.ctncar:id/ti_senha
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+

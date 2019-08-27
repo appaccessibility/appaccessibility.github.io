@@ -1,0 +1,6 @@
+The following is a list of opportunities to improve the accessibility of British Airways. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.ba.mobile:id/tickImage
+This item may not have a label readable by screen readers.
+

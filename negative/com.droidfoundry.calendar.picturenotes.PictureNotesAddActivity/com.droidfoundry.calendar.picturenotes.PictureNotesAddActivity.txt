@@ -1,0 +1,42 @@
+The following is a list of opportunities to improve the accessibility of Calendar. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+com.droidfoundry.calendar:id/met_title
+The item's text contrast ratio is 1.92. This ratio is based on an estimated foreground color of #BBBBBB and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.droidfoundry.calendar:id/met_content
+The item's text contrast ratio is 1.92. This ratio is based on an estimated foreground color of #BBBBBB and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+com.droidfoundry.calendar:id/met_title
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.droidfoundry.calendar:id/ll_add_photo
+This item's height is 32dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.droidfoundry.calendar:id/met_content
+This item's height is 40dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.droidfoundry.calendar:id/switch_picture
+This item's size is 46dp x 27dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.60. This ratio is based on an estimated foreground color of #E1ECD7 and an estimated background color of #689F38. Consider increasing this ratio to 3.00 or greater.
+
+Item descriptions
+com.droidfoundry.calendar:id/action_calendar
+This clickable item's speakable text: "Calendar" is identical to that of 1 other item(s).
+
+Text contrast
+[189,101][504,172]
+The item's text contrast ratio is 3.18. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #689F38. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.droidfoundry.calendar:id/tv_date
+The item's text contrast ratio is 3.05. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #689F38. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

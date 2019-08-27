@@ -1,0 +1,14 @@
+The following is a list of opportunities to improve the accessibility of اذكار المسلم. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+ammanify.apps.auto_athkar:id/mi_description
+The item's text contrast ratio is 2.26. This ratio is based on an estimated foreground color of #BDE0FB and an estimated background color of #2196F3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[425,1498][656,1624]
+The item's text contrast ratio is 2.47. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #D8E7F1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ammanify.apps.auto_athkar:id/mi_title
+The item's text contrast ratio is 3.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #2196F3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

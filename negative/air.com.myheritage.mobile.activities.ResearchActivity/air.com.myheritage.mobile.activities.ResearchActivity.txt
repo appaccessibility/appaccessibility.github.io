@@ -1,0 +1,46 @@
+The following is a list of opportunities to improve the accessibility of MyHeritage. Each item corresponds to an outlined area on the attached screenshot.
+
+Touch target
+air.com.myheritage.mobile:id/first_name
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/last_name
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/birth_year
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/place
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/keywords
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.09. This ratio is based on an estimated foreground color of #AAA49B and an estimated background color of #F0ECE1. Consider increasing this ratio to 3.00 or greater.
+
+Unsupported item type
+[37,236][1043,380]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+[37,406][1043,550]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+[37,576][1043,720]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+[37,746][1043,890]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+[37,916][1043,1060]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+

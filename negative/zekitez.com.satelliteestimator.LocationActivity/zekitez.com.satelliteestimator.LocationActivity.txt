@@ -1,0 +1,42 @@
+The following is a list of opportunities to improve the accessibility of Satellite Locator. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+zekitez.com.satelliteestimator:id/buttonPrefLocation
+This item may not have a label readable by screen readers.
+
+Touch target
+zekitez.com.satelliteestimator:id/buttonPrefLocation
+This item's height is 32dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+zekitez.com.satelliteestimator:id/editAccuracy
+This item's height is 42dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+zekitez.com.satelliteestimator:id/editLatitudeTgt
+This clickable item's speakable text: "0.0" is identical to that of 6 other item(s).
+
+Text contrast
+[0,79][540,130]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #555555. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[540,79][972,130]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #555555. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[0,769][540,820]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #555555. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[0,895][540,946]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #555555. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[0,1013][540,1064]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #555555. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Item descriptions
+[26,1347][1054,1515]
+This non-clickable item's speakable text: "Satellite Locator" is identical to that of 1 other item(s).
+

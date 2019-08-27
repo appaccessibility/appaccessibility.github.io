@@ -1,0 +1,34 @@
+The following is a list of opportunities to improve the accessibility of Audials. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.audials:id/activeHome
+This item may not have a label readable by screen readers.
+
+Touch target
+com.audials:id/activeHome
+This item's size is 46dp x 46dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.audials:id/menu_options_others
+This item's height is 46dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.audials:id/textViewPCFree
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.audials:id/textViewShareLinkPCFree
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.audials:id/textViewPCProducts
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.audials:id/textViewShareLinkPCProducts
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+com.audials:id/textViewShareLinkPCFree
+This clickable item's speakable text: "Share this link >" is identical to that of 1 other item(s).
+

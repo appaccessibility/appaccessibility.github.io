@@ -1,0 +1,10 @@
+The following is a list of opportunities to improve the accessibility of Unit Converter Ultimate. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+android:id/button3
+The item's text contrast ratio is 2.04. This ratio is based on an estimated foreground color of #3B73AF and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/button1
+The item's text contrast ratio is 2.04. This ratio is based on an estimated foreground color of #3B73AF and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

@@ -1,0 +1,130 @@
+The following is a list of opportunities to improve the accessibility of Perfect Uninstaller. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+bazinga.uninstaller:id/sort2
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/mode
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/style
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/refresh
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/searchTextfiele
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/clearSearch
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/gift
+This item may not have a label readable by screen readers.
+
+Item label
+bazinga.uninstaller:id/nativeicon2
+This item may not have a label readable by screen readers.
+
+Text contrast
+bazinga.uninstaller:id/spo
+The item's text contrast ratio is 2.77. This ratio is based on an estimated foreground color of #777777 and an estimated background color of #353433. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+bazinga.uninstaller:id/nativecta2
+The item's text contrast ratio is 2.02. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9FC426. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+bazinga.uninstaller:id/layout_sort
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+bazinga.uninstaller:id/layout_mode
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+bazinga.uninstaller:id/layout_style
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+bazinga.uninstaller:id/layout_refresh
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+bazinga.uninstaller:id/searchTextfiele
+This item's height is 32dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+bazinga.uninstaller:id/clearSearch
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+
+Image contrast
+bazinga.uninstaller:id/style
+The image's contrast ratio is 2.46. This ratio is based on an estimated foreground color of #EEEEEE and an estimated background color of #999999. Consider increasing this ratio to 3.00 or greater.
+
+Touch target
+bazinga.uninstaller:id/sort2
+This item's size is 24dp x 24dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/sort_text
+This item's size is 28dp x 20dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/mode
+This item's size is 36dp x 24dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/mode_text
+This item's size is 38dp x 20dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/style
+This item's size is 24dp x 24dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/style_text
+This item's height is 20dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/refresh
+This item's size is 24dp x 24dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/refresh_text
+This item's size is 46dp x 20dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+[13,1637][1080,1697]
+This item's height is 23dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/gift
+This item's size is 23dp x 23dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/spo
+This item's height is 14dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+[0,1697][1080,1781]
+This item's height is 32dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/nativeicon2
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/nativetxt2
+This item's height is 22dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+bazinga.uninstaller:id/nativecta2
+This item's height is 32dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+

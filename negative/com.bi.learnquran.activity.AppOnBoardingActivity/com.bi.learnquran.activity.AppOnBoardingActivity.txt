@@ -1,0 +1,18 @@
+The following is a list of opportunities to improve the accessibility of Learn Quran Tajwid. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.bi.learnquran:id/next_iv
+This item may not have a label readable by screen readers.
+
+Text contrast
+com.bi.learnquran:id/tv_skip
+The item's text contrast ratio is 1.43. This ratio is based on an estimated foreground color of #D3D3D3 and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+com.bi.learnquran:id/tv_skip
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.bi.learnquran:id/next_iv
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+

@@ -1,0 +1,34 @@
+The following is a list of opportunities to improve the accessibility of English to Urdu. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.englishtourdu.urdutoenglishdictionary:id/meaning_edittext
+This item may not have a label readable by screen readers.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 1.37. This ratio is based on an estimated foreground color of #9A9A9A and an estimated background color of #828282. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+com.englishtourdu.urdutoenglishdictionary:id/data_edittext
+This item's height is 24dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.englishtourdu.urdutoenglishdictionary:id/meaning_edittext
+This item's height is 34dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.englishtourdu.urdutoenglishdictionary:id/btn_translate
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.englishtourdu.urdutoenglishdictionary:id/btn_translate_to_urdu
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.englishtourdu.urdutoenglishdictionary:id/btn_translate_to_eng
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Text contrast
+com.englishtourdu.urdutoenglishdictionary:id/data_edittext
+The item's text contrast ratio is 3.31. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #EBEBEB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

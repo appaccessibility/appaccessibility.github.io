@@ -1,0 +1,142 @@
+The following is a list of opportunities to improve the accessibility of Bíblia JFA + Harpa. Each item corresponds to an outlined area on the attached screenshot.
+
+Touch target
+[322,259][903,309]
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[900,259][903,309]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,312][567,380]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[564,312][588,362]
+This item's size is 9dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[585,312][874,380]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[871,320][874,370]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,546][803,595]
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[800,546][803,595]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,598][567,666]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[564,598][588,648]
+This item's size is 9dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[585,598][874,666]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[871,606][874,656]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,832][992,882]
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[989,832][992,882]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,884][567,952]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[564,884][588,934]
+This item's size is 9dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[585,884][874,952]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[871,892][874,942]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,1118][1023,1220]
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[727,1170][729,1220]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,1223][567,1291]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[564,1223][588,1273]
+This item's size is 9dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[585,1223][874,1291]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[871,1231][874,1281]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,1404][1015,1454]
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[1013,1404][1015,1454]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,1456][567,1525]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[564,1456][588,1506]
+This item's size is 9dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[585,1456][874,1525]
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[871,1464][874,1514]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[322,1690][1026,1792]
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[889,1743][892,1792]
+This item's size is 1dp x 19dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Item descriptions
+[322,312][567,380]
+This clickable item's speakable text: "Visitar Site" is identical to that of 4 other item(s).
+
+Item descriptions
+[585,312][874,380]
+This clickable item's speakable text: "Compartilhar" is identical to that of 4 other item(s).
+
+Item descriptions
+[564,312][588,362]
+This clickable item's speakable text: " " is identical to that of 4 other item(s).
+

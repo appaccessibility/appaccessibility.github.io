@@ -1,0 +1,14 @@
+The following is a list of opportunities to improve the accessibility of ColorSnap. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+android:id/action_bar_title
+The item's text contrast ratio is 2.24. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #E4E4E4. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.colorsnap:id/disclaimerText
+The item's text contrast ratio is 3.38. This ratio is based on an estimated foreground color of #8D8B8C and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Item descriptions
+com.colorsnap:id/textDisclaimer
+This non-clickable item's speakable text: "Due to technical limitations, colors seen here may not accurately reflect Sherwin‑Williams paint colors. To confirm your color choices, visit your neighborhood Sherwin‑Williams store and refer to our in-store color cards." is identical to that of 1 other item(s).
+

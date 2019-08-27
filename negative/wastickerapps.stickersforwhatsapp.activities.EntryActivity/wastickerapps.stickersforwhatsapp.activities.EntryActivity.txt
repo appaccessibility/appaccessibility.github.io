@@ -1,0 +1,58 @@
+The following is a list of opportunities to improve the accessibility of New Stickers. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Item label
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+This item may not have a label readable by screen readers.
+
+Text contrast
+[42,101][353,172]
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[975,73][1080,199]
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 2.50. This ratio is based on an estimated foreground color of #00AFF0 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+wastickerapps.stickersforwhatsapp:id/add_button_on_list
+The image's contrast ratio is 1.13. This ratio is based on an estimated foreground color of #F1F1F1 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+

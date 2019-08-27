@@ -1,0 +1,58 @@
+The following is a list of opportunities to improve the accessibility of Drivvo. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+[189,101][465,172]
+The item's text contrast ratio is 2.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00BCD4. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[26,257][539,303]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[542,257][1054,303]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[26,414][1054,460]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[26,571][1054,617]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[26,728][539,774]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[542,728][1054,774]
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00BCD4. Consider increasing this ratio to 3.00 or greater.
+
+Item descriptions
+[542,728][1054,774]
+This non-clickable item's speakable text: "Driver License Expiry" is identical to that of 1 other item(s).
+
+Item descriptions
+[26,571][1054,617]
+This non-clickable item's speakable text: "Gender" is identical to that of 1 other item(s).
+
+Item descriptions
+[26,414][1054,460]
+This non-clickable item's speakable text: "Email" is identical to that of 1 other item(s).
+
+Item descriptions
+[26,728][539,774]
+This non-clickable item's speakable text: "Driver License" is identical to that of 1 other item(s).
+
+Item descriptions
+[26,257][539,303]
+This non-clickable item's speakable text: "First name" is identical to that of 1 other item(s).
+
+Item descriptions
+[542,257][1054,303]
+This non-clickable item's speakable text: "Last name" is identical to that of 1 other item(s).
+

@@ -1,0 +1,30 @@
+The following is a list of opportunities to improve the accessibility of Emoji Trolls. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.baretreemedia.trollsapp:id/button_photo_ext
+This item may not have a label readable by screen readers.
+
+Touch target
+com.baretreemedia.trollsapp:id/button_photo_ext
+This item's size is 34dp x 40dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.baretreemedia.trollsapp:id/service_checkbox
+This item's size is 27dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.baretreemedia.trollsapp:id/save_checkbox
+This item's size is 27dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.baretreemedia.trollsapp:id/sticker_size_value
+This item's size is 45dp x 45dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Image contrast
+[975,73][1080,199]
+The image's contrast ratio is 2.08. This ratio is based on an estimated foreground color of #1BB7B3 and an estimated background color of #DBF0E9. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.baretreemedia.trollsapp:id/sticker_size_value
+The item's text contrast ratio is 3.52. This ratio is based on an estimated foreground color of #009688 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

@@ -1,0 +1,62 @@
+The following is a list of opportunities to improve the accessibility of Bíblia JFA + Harpa. Each item corresponds to an outlined area on the attached screenshot.
+
+Editable item label
+[44,273][942,367]
+This editable TextView has an android:contentDescription. A screen reader may read this attribute instead of the editable content when the user is navigating.
+
+Touch target
+[44,273][942,367]
+This item's height is 36dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,388][1081,504]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,501][1081,616]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,614][1081,732]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,729][1081,845]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,842][1081,960]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,958][1081,1073]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1071][1081,1186]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1183][1081,1302]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1299][1081,1414]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1412][1081,1527]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1525][1081,1643]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1640][1081,1756]
+This item's height is 44dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+[0,1753][1081,1871]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+

@@ -1,0 +1,126 @@
+The following is a list of opportunities to improve the accessibility of Golf Pad. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Item label
+com.contorra.golfpad:id/helpButton
+This item may not have a label readable by screen readers.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.contorra.golfpad:id/subTitle
+The item's text contrast ratio is 1.59. This ratio is based on an estimated foreground color of #FDBD5F and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 32dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+com.contorra.golfpad:id/radio
+This item's size is 32dp x 31dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+[168,1677][934,1794]
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+com.contorra.golfpad:id/radio
+This clickable item's speakable text: "Checked" is identical to that of 1 other item(s).
+
+Item descriptions
+com.contorra.golfpad:id/radio
+This clickable item's speakable text: "Not checked" is identical to that of 6 other item(s).
+
+Text contrast
+[21,231][1059,330]
+The item's text contrast ratio is 2.99. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[21,642][1059,741]
+The item's text contrast ratio is 2.99. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Item descriptions
+[42,101][224,172]
+This non-clickable item's speakable text: "Scoring" is identical to that of 1 other item(s).
+

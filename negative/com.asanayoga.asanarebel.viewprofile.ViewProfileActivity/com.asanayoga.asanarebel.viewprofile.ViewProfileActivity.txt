@@ -1,0 +1,26 @@
+The following is a list of opportunities to improve the accessibility of Asana Rebel. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+com.asanayoga.asanarebel:id/profile_user_edit
+This item may not have a label readable by screen readers.
+
+Text contrast
+com.asanayoga.asanarebel:id/text_yoga_workouts
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[84,1212][552,1255]
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[552,1212][996,1255]
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 1.12. This ratio is based on an estimated foreground color of #F6E5E5 and an estimated background color of #F5F5F5. Consider increasing this ratio to 3.00 or greater.
+
+Unsupported item type
+[43,1639][1037,1794]
+This item's type com.prolificinteractive.materialcalendarview.CalendarPagerView may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+

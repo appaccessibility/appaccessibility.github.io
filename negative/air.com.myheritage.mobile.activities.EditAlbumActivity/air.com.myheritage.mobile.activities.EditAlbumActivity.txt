@@ -1,0 +1,38 @@
+The following is a list of opportunities to improve the accessibility of MyHeritage. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+air.com.myheritage.mobile:id/menu_save
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #F66B32 and an estimated background color of #F0ECE1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+air.com.myheritage.mobile:id/albumTitle
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/albumDescription
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+air.com.myheritage.mobile:id/button
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.09. This ratio is based on an estimated foreground color of #AAA49B and an estimated background color of #F0ECE1. Consider increasing this ratio to 3.00 or greater.
+
+Item descriptions
+air.com.myheritage.mobile:id/albumTitle
+This clickable item's speakable text: "Album title" is identical to that of 1 other item(s).
+
+Item descriptions
+air.com.myheritage.mobile:id/albumDescription
+This clickable item's speakable text: "Album description" is identical to that of 1 other item(s).
+
+Unsupported item type
+[63,244][939,388]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+
+Unsupported item type
+[63,388][1017,532]
+This item's type TextInputLayout may not be resolvable by accessibility services. Consider using a type defined by the Android SDK.
+

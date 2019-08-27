@@ -1,0 +1,34 @@
+The following is a list of opportunities to improve the accessibility of Game Booster. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_callToAction
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #23B473. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_callToAction
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #23B473. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+[16,232][1064,353]
+This item's height is 46dp. Consider making the height of this touch target 48dp or larger.
+
+Item descriptions
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_callToAction
+This clickable item's speakable text: "Download" is identical to that of 1 other item(s).
+
+Text contrast
+apps.ignisamerica.gamebooster:id/__ignisappstore_tv_description
+The item's text contrast ratio is 3.50. This ratio is based on an estimated foreground color of #808B8F and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Touch target
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_moreApps
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_callToAction
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+
+Touch target
+apps.ignisamerica.gamebooster:id/__ignisappstore_btn_callToAction
+This item's height is 26dp. Consider making the height of this touch target 48dp or larger. A parent container may be handling touch events for this item. If selecting the larger container performs the same action as selecting this item, consider defining this item as not clickable. If a different action is performed, consider increasing the size of this item.
+

@@ -1,0 +1,30 @@
+The following is a list of opportunities to improve the accessibility of Drivvo. Each item corresponds to an outlined area on the attached screenshot.
+
+Item label
+br.com.ctncardoso.ctncar:id/imgb_informacao
+This item may not have a label readable by screen readers.
+
+Text contrast
+[189,101][464,172]
+The item's text contrast ratio is 2.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00BCD4. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+br.com.ctncardoso.ctncar:id/et_nome
+The item's text contrast ratio is 1.54. This ratio is based on an estimated foreground color of #D0D0D0 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+br.com.ctncardoso.ctncar:id/et_nome
+This item's height is 39dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/sp_bandeira
+This item's height is 35dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+br.com.ctncardoso.ctncar:id/imgb_informacao
+This item's size is 35dp x 35dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00BCD4. Consider increasing this ratio to 3.00 or greater.
+

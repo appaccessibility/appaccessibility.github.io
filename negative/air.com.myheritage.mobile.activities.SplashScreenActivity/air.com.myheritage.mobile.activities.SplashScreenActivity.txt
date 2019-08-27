@@ -1,0 +1,6 @@
+The following is a list of opportunities to improve the accessibility of MyHeritage. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+air.com.myheritage.mobile:id/skip_button
+The item's text contrast ratio is 2.33. This ratio is based on an estimated foreground color of #63594A and an estimated background color of #292019. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

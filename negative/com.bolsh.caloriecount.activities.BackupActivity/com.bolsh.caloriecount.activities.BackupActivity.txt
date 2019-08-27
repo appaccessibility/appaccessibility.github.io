@@ -1,0 +1,22 @@
+The following is a list of opportunities to improve the accessibility of Calorie Counter. Each item corresponds to an outlined area on the attached screenshot.
+
+Item descriptions
+com.bolsh.calorie:id/importButton
+This clickable item's speakable text: "Import" is identical to that of 1 other item(s).
+
+Item descriptions
+com.bolsh.calorie:id/exportButton
+This clickable item's speakable text: "Export" is identical to that of 1 other item(s).
+
+Text contrast
+com.bolsh.calorie:id/deviceFolderName
+The item's text contrast ratio is 4.39. This ratio is based on an estimated foreground color of #00803E and an estimated background color of #EFEFEF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.bolsh.calorie:id/driveBackupName
+The item's text contrast ratio is 4.39. This ratio is based on an estimated foreground color of #00803E and an estimated background color of #EFEFEF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.bolsh.calorie:id/signInButton
+The item's text contrast ratio is 3.19. This ratio is based on an estimated foreground color of #009688 and an estimated background color of #EFEFEF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

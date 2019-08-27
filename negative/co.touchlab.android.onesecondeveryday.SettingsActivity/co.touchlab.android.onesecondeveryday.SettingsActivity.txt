@@ -1,0 +1,38 @@
+The following is a list of opportunities to improve the accessibility of 1 Second Everyday. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+[189,97][397,175]
+The item's text contrast ratio is 2.06. This ratio is based on an estimated foreground color of #EEEEEE and an estimated background color of #64B5B1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_morning
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_midday
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_evening
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_night
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_late
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Touch target
+co.touchlab.android.onesecondeveryday:id/check_crowds_biweekly
+This item's size is 46dp x 38dp. Consider making this touch target 48dp wide and 48dp high or larger.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.39. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #64B5B1. Consider increasing this ratio to 3.00 or greater.
+
+Item descriptions
+co.touchlab.android.onesecondeveryday:id/check_morning
+This clickable item's speakable text: "OFF, Not checked" is identical to that of 5 other item(s).
+

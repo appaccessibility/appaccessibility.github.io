@@ -1,0 +1,22 @@
+The following is a list of opportunities to improve the accessibility of Crop n' Square. Each item corresponds to an outlined area on the attached screenshot.
+
+Text contrast
+com.devnamic.square:id/about_twitter
+The item's text contrast ratio is 2.73. This ratio is based on an estimated foreground color of #03867B and an estimated background color of #333637. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.devnamic.square:id/app_link
+The item's text contrast ratio is 2.71. This ratio is based on an estimated foreground color of #05877B and an estimated background color of #353737. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Touch target
+com.devnamic.square:id/about_twitter
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.devnamic.square:id/app_link
+This item's height is 19dp. Consider making the height of this touch target 48dp or larger.
+
+Touch target
+com.devnamic.square:id/button_close
+This item's height is 45dp. Consider making the height of this touch target 48dp or larger.
+
